@@ -1,0 +1,26 @@
+# === Unity generated folders ===
+Library/
+Temp/
+Obj/
+Build/
+Builds/
+Logs/
+UserSettings/
+MemoryCaptures/
+
+# === User-specific files ===
+.vscode/
+.idea/
+*.csproj
+*.sln
+*.user
+*.userprefs
+*.pidb
+*.booproj
+*.svd
+
+# === macOS system files ===
+.DS_Store
+
+# === Crash reports ===
+*.stacktrace
